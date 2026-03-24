@@ -26,11 +26,8 @@
 	</a>
 	<br />
 	<br />
-	<a href="https://www.filerobot.com/en/home#gh-dark-mode-only" />
-	<img src="https://assets.scaleflex.com/Marketing/Logos/Filerobot+Logos/Logo+with+Scaleflex/LOGO+WITH+SCALEFLEX+ON+BLACK+BG.png?vh=619469" alt="Filerobot dark mode Logo" width="300px" />
-  </a>
-  <a href="https://www.filerobot.com/en/home#gh-light-mode-only">
-    <img src="https://assets.scaleflex.com/Marketing/Logos/Filerobot+Logos/Logo+with+Scaleflex/LOGO+WITH+SCALEFLEX+ON+WHITE+BG.png?vh=7ae33c" alt="Filerobot white mode Logo" width="300px">
+	<a href="https://www.scaleflex.com/en/home" />
+	<img src="https://scaleflex.cloudimg.io/v7/plugins/scaleflex/logo.png?vh=b0a502&radius=25&w=700" alt="Filerobot dark mode Logo" width="300px" />
   </a>
 	<br />
 	<br />
